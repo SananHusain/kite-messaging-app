@@ -1,0 +1,29 @@
+PODS:
+  - CountryPickerView (3.3.0)
+  - IQKeyboardManagerSwift (7.0.1)
+  - PhoneNumberKit (3.7.10):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.7.10)
+    - PhoneNumberKit/UIKit (= 3.7.10)
+  - PhoneNumberKit/PhoneNumberKitCore (3.7.10)
+  - PhoneNumberKit/UIKit (3.7.10):
+    - PhoneNumberKit/PhoneNumberKitCore
+
+DEPENDENCIES:
+  - CountryPickerView
+  - IQKeyboardManagerSwift
+  - PhoneNumberKit
+
+SPEC REPOS:
+  trunk:
+    - CountryPickerView
+    - IQKeyboardManagerSwift
+    - PhoneNumberKit
+
+SPEC CHECKSUMS:
+  CountryPickerView: 6322ada32a80b0cd721b0267282a5c24f406f263
+  IQKeyboardManagerSwift: 7f6b1b1d1497855d2beea7f2f10ffcc6978525b1
+  PhoneNumberKit: 3d9a20cfe8ee68f35c2a3ae9474093133f72a8a1
+
+PODFILE CHECKSUM: 1068a29b105dc100d2cabe22ea50cbf7eb363321
+
+COCOAPODS: 1.15.2
